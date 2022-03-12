@@ -606,7 +606,7 @@ span{
 }
 @media (max-width: 1400px){
 	.header{
-		margin-top: 8px;
+		padding-top: 8px;
 	}	
 	.digital__title{
 		font-size: 30px;
